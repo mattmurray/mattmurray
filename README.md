@@ -1,4 +1,3 @@
-<img align="right" src="http://hits.dwyl.com/mattmurray/mattmurray.svg">
 <div><h2>Hi there 👋</h1></div>
 
 
