@@ -1,8 +1,6 @@
 <div><h2>Hi there 👋</h1></div>
 
 
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattmurray&count_private=true&show_icons=true)](#)
-
 
 
 
